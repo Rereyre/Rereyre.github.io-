@@ -1,4 +1,5 @@
 import { Button, Container, Row, Col } from "react-bootstrap";
+import React from "react";
 
 const intro = () => {
     return(

@@ -1,5 +1,6 @@
 import { Card, Container, Row, Col, Image } from "react-bootstrap";
 import womanImage from "../assets/images/women.jpeg";
+import React from "react";
 
 const Superhero = () => {
   return (

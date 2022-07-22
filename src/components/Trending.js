@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { Card, Container, Row, Col, Image } from "react-bootstrap";
+import React from "react"
 import womanImage from "../assets/images/women.jpeg";
 import axios from "axios";
 
