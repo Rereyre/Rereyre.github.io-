@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/reactjs/static/media/tugu.57b8ef0b.jpg"
   },
   {
-    "revision": "9a87d3dad544a1201c5dad1af4b0586d",
-    "url": "/reactjs/static/media/boy.9a87d3da.jpeg"
-  },
-  {
     "revision": "134fff0461fabb63f68a965f15cb6605",
     "url": "/reactjs/static/media/subway.134fff04.jpeg"
+  },
+  {
+    "revision": "9a87d3dad544a1201c5dad1af4b0586d",
+    "url": "/reactjs/static/media/boy.9a87d3da.jpeg"
   },
   {
     "revision": "9067ccfd433de51d8ab1243b67bf5426",
