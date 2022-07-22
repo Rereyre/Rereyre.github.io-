@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/reactjs/static/media/boy.9a87d3da.jpeg"
   },
   {
-    "revision": "9067ccfd433de51d8ab1243b67bf5426",
+    "revision": "e72490aab61c3d5dcdb4984a9fed8a22",
     "url": "/reactjs/index.html"
   }
 ];
