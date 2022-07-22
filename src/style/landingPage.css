@@ -1,0 +1,47 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/images/subway.jpeg") ;
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    /* background: tomato; */
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px white;
+}
+
+.trending {
+    height: auto;
+    background: url("../assets/images/tugu.jpg") ;
+    background-size: cover;
+}
+
+.movieImage{
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.movieWrapper {
+
+}
+
+.images {
+    height: 300px;
+}
+
+.superhero {
+    height: auto;
+    background: url("../assets/images/boy.jpeg") ;
+    background-size: cover;
+}
